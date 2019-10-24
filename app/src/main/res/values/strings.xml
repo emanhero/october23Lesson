@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">UST COLLEGES</string>
+    <string-array name="colleges">
+        <item>AMV College of Accountancy</item>
+        <item>College of Architecture</item>
+        <item>College of Fine Arts and Design</item>
+        <item>Faculty of Civil Law</item>
+        <item>College of Commerce and Business Administration</item>
+        <item>College of Education</item>
+        <item>Faculty of Engineering</item>
+        <item>Institute of Information and Computing Sciences</item>
+
+    </string-array>
+
+    <string-array name="patron">
+        <item>Patron Saint 1</item>
+        <item>Patron Saint 2</item>
+        <item>Patron Saint 3</item>
+        <item>Patron Saint 4</item>
+        <item>Patron Saint 5</item>
+        <item>Patron Saint 6</item>
+        <item>Patron Saint 7</item>
+        <item>Patron Saint 8</item>
+
+    </string-array>
+</resources>
